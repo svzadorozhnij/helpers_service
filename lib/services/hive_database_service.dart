@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:helpers/services/firebase_log_service.dart';
+import 'package:helpers/services/error_messaging.dart';
 import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
 
